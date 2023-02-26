@@ -193,6 +193,8 @@ section {
 
 .project-info {
     padding: 1em;
+    text-decoration: none;
+    
 }
 
 .project-category {
